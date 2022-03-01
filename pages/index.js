@@ -1,9 +1,10 @@
-import NavBanner from '../components/NavBanner'
+import Banner from "../components/Banner"
+
 
 export default function Home() {
   return (
     <>
-      <NavBanner />
+      <Banner />
     </>
   )
 }

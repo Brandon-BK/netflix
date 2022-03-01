@@ -14,3 +14,8 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.banner{
+   background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/8607d312-c4d0-4ce2-955d-50d728ae845f/2b232a4e-5468-4016-8a20-43f1df14f151/ZA-en-20220226-popsignuptwoweeks-perspective_alpha_website_medium.jpg");
+   background-color: palegoldenrod ;
+}
