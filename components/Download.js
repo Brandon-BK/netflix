@@ -16,12 +16,12 @@ const Download = () => {
                     <p style={{color:'blue'}}>Downloading...</p>
                 </div>
 
-                <ArrowDownwardIcon />
+                <ArrowDownwardIcon /> 
             </div>
         </div>
 
         <div style={{width:'50%',height:'100%',display:'flex',alignItems:'center',justifyContent:'center',flexDirection:'column'}}>
-            <h1 style={{fontSize:50}}>Download your shows <br /> to watch offline.</h1>
+           <h1 style={{fontSize:50}}>Download your shows <br /> to watch offline.</h1>
             <p style={{fontSize:28}}>
             Save your favorites easily and always have <br /> something to watch.
             </p>
