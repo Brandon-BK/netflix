@@ -4,6 +4,7 @@ import Download from '../components/Download'
 import Watch from "../components/Watch"
 import Kids from "../components/Kids"
 import Footer from "../components/Footer"
+import Frequently from "../components/container/Frequently"
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <Download />
       <Watch />
       <Kids />
+      <Frequently />
       <Footer />
     </>
   )
