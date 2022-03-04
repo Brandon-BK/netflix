@@ -4,6 +4,7 @@ import Download from '../components/Download'
 import NavBanner from '../components/NavBanner'
 import Watch from "../components/Watch"
 import Kids from "../components/Kids"
+import Footer from "../components/Footer"
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Download />
       <Watch />
       <Kids />
+      <Footer />
     </>
   )
 }
