@@ -8,6 +8,7 @@ const Enjoy = () => {
       style={{
         padding: "70px 45px",
         background: "black",
+        borderTop:"5px gray solid",
         color: "white",
         width: "100%",
       }}
